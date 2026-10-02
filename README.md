@@ -171,7 +171,7 @@ If symptoms are severe, sudden, rapidly worsening, or potentially life-threateni
 
 🚧 **Active Development**
 
-MediSphere is continuously evolving across its AI workflows, user experience, healthcare integrations, and accessibility.
+MediSphere is continuously evolving across its AI workflows, user experience, healthcare integrations and accessibility.
 
 ---
 
